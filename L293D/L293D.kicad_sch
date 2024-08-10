@@ -1289,15 +1289,9 @@
 		(color 0 0 0 0)
 		(uuid "d2a3ea73-971d-44e4-be12-d523e67d20ba")
 	)
-	(junction
-		(at 120.65 80.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fcfdf2d5-c7c5-4a02-8668-47a853d2db11")
-	)
 	(wire
 		(pts
-			(xy 120.65 80.01) (xy 120.65 74.93)
+			(xy 120.65 74.93) (xy 120.65 82.55)
 		)
 		(stroke
 			(width 0)
@@ -1394,16 +1388,6 @@
 			(type default)
 		)
 		(uuid "49f0f7db-0130-479f-a7bf-c20c26a80481")
-	)
-	(wire
-		(pts
-			(xy 120.65 82.55) (xy 120.65 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "569c67ba-159f-4905-a863-7747dac95c4f")
 	)
 	(wire
 		(pts
@@ -1624,6 +1608,116 @@
 			(type default)
 		)
 		(uuid "fe0e7849-0abb-4e07-9705-2cce9bee7050")
+	)
+	(label "1"
+		(at 152.4 71.12 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0f2fe0f5-edcf-4c93-98bd-3d2dba32d713")
+	)
+	(label "E34"
+		(at 104.14 90.17 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "10d5e597-45ac-4b0f-949a-6f1fdd3e582a")
+	)
+	(label "4"
+		(at 104.14 87.63 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1c0368ed-4556-40c0-a93c-c2084906dfbe")
+	)
+	(label "E12"
+		(at 104.14 77.47 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2c8b2f2b-ed46-4b8f-be27-4ecdb35fd8d1")
+	)
+	(label "4"
+		(at 152.4 88.9 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5b7d445d-5718-47ce-82fe-07ff7cffaea9")
+	)
+	(label "2"
+		(at 152.4 73.66 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7928b0c5-daa4-456a-9099-cb7b8dee4de7")
+	)
+	(label "1"
+		(at 104.14 80.01 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "796e105c-4145-421c-a99d-d222b0510db6")
+	)
+	(label "2"
+		(at 104.14 82.55 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7c1d2a6d-a227-457b-82b0-579ebcf225e6")
+	)
+	(label "3"
+		(at 152.4 86.36 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8dd82810-1ce9-4edb-ba28-082ad2b7cf57")
+	)
+	(label "3"
+		(at 104.14 85.09 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b1c1cf85-0b54-4794-89b9-a8333ddff0da")
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
