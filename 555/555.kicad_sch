@@ -1873,19 +1873,21 @@
 		(fields_autoplaced yes)
 		(uuid "4b2ae071-b2e4-473f-8a01-d4453715a402")
 		(property "Reference" "C2"
-			(at 66.04 93.98 90)
+			(at 77.47 92.7099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Value" "C"
-			(at 68.58 93.98 90)
+		(property "Value" "0.1uF"
+			(at 77.47 95.2499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
@@ -1948,7 +1950,7 @@
 				)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1uF"
 			(at 109.22 59.69 90)
 			(effects
 				(font
