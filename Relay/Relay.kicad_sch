@@ -515,6 +515,16 @@
 	)
 	(wire
 		(pts
+			(xy 147.32 66.04) (xy 147.32 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65561a5a-59a1-46c1-8d2e-22539ca93921")
+	)
+	(wire
+		(pts
 			(xy 149.86 80.01) (xy 149.86 88.9)
 		)
 		(stroke
@@ -565,16 +575,6 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 66.04) (xy 147.32 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ea21e26d-7229-4c3d-93e5-73fc2395d264")
-	)
-	(wire
-		(pts
 			(xy 125.73 74.93) (xy 125.73 76.2)
 		)
 		(stroke
@@ -582,6 +582,50 @@
 			(type default)
 		)
 		(uuid "fb8f8fe5-330a-4057-bea1-fc65dfe148a9")
+	)
+	(label "sw2"
+		(at 140.97 74.93 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "16968d6d-dc61-4be0-aea7-50ba5bc1d651")
+	)
+	(label "en-"
+		(at 147.32 77.47 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a1793b23-a2c4-4aa9-a102-4d42047c457f")
+	)
+	(label "en+"
+		(at 149.86 82.55 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b84313c3-9f95-4370-8779-eeef32369c57")
+	)
+	(label "sw1"
+		(at 141.7447 71.12 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "dbd9563e-dec6-41ce-97bb-91ac5bc0656b")
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x04")
