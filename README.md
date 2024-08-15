@@ -4,5 +4,5 @@
 ![Screenshot](L293D/Screenshot.png)
 ![Screenshot](Relay/Screenshot.png)
 ![Screenshot](SOIC-8/Screenshot.png)
-![Screenshot](usb A/Screenshot.png)
-![Screenshot](usb C/Screenshot.png)
+![Screenshot](usb%20A/Screenshot.png)
+![Screenshot](usb%20C/Screenshot.png)
