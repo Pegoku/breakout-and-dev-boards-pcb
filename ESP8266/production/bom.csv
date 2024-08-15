@@ -1,0 +1,4 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"J1, J2",PinHeader_1x11_P2.54mm_Vertical,2,Conn_01x11,
+"SW1, SW2",KEY-SMD_4P-L4.5-W4.5-P3.00-LS6.8,2,TSC015A03518A,C2888502
+U1,WIRELM-SMD_ESP-12F,1,ESP-12F,C19949064

@@ -1,0 +1,4 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"J1, J2, J4","TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",3,Screw_Terminal_01x02,
+J3,PinSocket_1x06_P2.54mm_Vertical,1,Conn_01x06,
+U1,DIP-16_W7.62mm,1,L293D,

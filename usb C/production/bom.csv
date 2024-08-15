@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,PinHeader_1x04_P2.54mm_Horizontal,1,Conn_01x04,
+R1,0805,1,1M,
+"R2, R3",0805,2,5.11k,
+USB1,USB-C-SMD_TYPE-C-6PIN-2MD-073,1,TYPE-C 16PIN 2MD(073),C2765186
